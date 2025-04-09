@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+
+}
+nav, article, aside{
+    width: 30%;
+    background-color: yellow;
+    padding:20px 5px;
+    margin-left:2%;
+}
+header{
+    background-color: aquamarine;
+}
+footer{
+    background-color: orange;
+}
+section.asidesec{
+    background-color: purple;
+    padding: 40px 5px;
+}
+section.articlesec{
+    background-color: red;
+    padding: 40px 5px;
+    margin-bottom:2%;
+}
